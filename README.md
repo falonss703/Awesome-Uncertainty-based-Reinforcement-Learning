@@ -61,4 +61,4 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=falonss703/Awesome-Uncertainty-based-RLVR&type=Date)](https://www.star-history.com/#falonss703/Awesome-Uncertainty-based-RLVR&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=falonss703/Awesome-Uncertainty-based-Reinforcement-Learning&type=Date)](https://www.star-history.com/#falonss703/Awesome-Uncertainty-based-Reinforcement-Learning&Date)
