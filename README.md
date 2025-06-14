@@ -14,9 +14,9 @@
     <th width="8%">Method</th>
     <th width="7%">Date</th>
     <th width="15%">Metric</th>
-    <th width="12%">Task Domain</th>
-    <th width="8%">Code</th>
-    <th width="10%">Venue</th>
+    <th width="16%">Task Domain</th>
+    <th width="7%">Code</th>
+    <th width="7%">Venue</th>
   </tr>
   <tr>
     <td><a href="https://arxiv.org/abs/2504.05812"><b>Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization</b></a></td>
@@ -82,9 +82,9 @@
     <th width="8%">Method</th>
     <th width="7%">Date</th>
     <th width="15%">Metric</th>
-    <th width="12%">Task Domain</th>
-    <th width="8%">Code</th>
-    <th width="10%">Venue</th>
+    <th width="16%">Task Domain</th>
+    <th width="7%">Code</th>
+    <th width="7%">Venue</th>
   </tr>
   <tr>
     <td><a href="https://arxiv.org/abs/2505.15134"><b>The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning</b></a></td>
@@ -123,9 +123,9 @@
     <th width="8%">Method</th>
     <th width="7%">Date</th>
     <th width="15%">Metric</th>
-    <th width="12%">Task Domain</th>
-    <th width="8%">Code</th>
-    <th width="10%">Venue</th>
+    <th width="16%">Task Domain</th>
+    <th width="7%">Code</th>
+    <th width="7%">Venue</th>
   </tr>
   <tr>
     <td><a href="https://arxiv.org/abs/2505.12346"><b>SEED-GRPO: Semantic entropy enhanced GRPO for uncertainty-aware policy optimization</b></a></td>
