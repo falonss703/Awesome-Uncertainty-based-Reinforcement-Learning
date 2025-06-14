@@ -1,19 +1,10 @@
-# Awesome Entropy-based RL 
+# Awesome Uncertainty-based RLVR Papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![GitHub stars](https://img.shields.io/github/stars/falonss703/Awesome-Entropy-based-RL?style=social)](https://github.com/falonss703/Awesome-Entropy-based-RL/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/falonss703/Awesome-Entropy-based-RL?style=social)](https://github.com/falonss703/Awesome-Entropy-based-RL/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/falonss703/Awesome-Entropy-based-RL)](https://github.com/falonss703/Awesome-Entropy-based-RL/issues)
-[![GitHub license](https://img.shields.io/github/license/falonss703/Awesome-Entropy-based-RL?color=blue)](https://github.com/falonss703/Awesome-Entropy-based-RL/blob/main/LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/falonss703/Awesome-Entropy-based-RL/pulls)
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<h1>A Curated Collection of Uncertainty-based Reinforcement Learning Resources</h1>
-
-<p>This repository contains a comprehensive list of papers, projects, and resources related to uncertainty-based reinforcement learning, with a focus on entropy-based methods.</p>
+<p>This repository targets researchers exploring recent advances in reinforcement learning that utilize uncertainty to improve the reasoning capabilities of large language models.</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -21,23 +12,18 @@
 
 ## 📋 Table of Contents
 
-- [Awesome Entropy-based RL](#awesome-entropy-based-rl)
+- [Awesome Uncertainty-based RLVR Papers](#awesome-uncertainty-based-rlvr-papers)
   - [📋 Table of Contents](#-table-of-contents)
-  - [Introduction](#introduction)
-  - [How to use Uncertainty in RL?](#how-to-use-uncertainty-in-rl)
-    - [🎯 Uncertainty as Optimization Objective](#-uncertainty-as-optimization-objective)
-    - [💰 Uncertainty as Reward Signal](#-uncertainty-as-reward-signal)
-    - [🧭 Uncertainty as Optimization Guide](#-uncertainty-as-optimization-guide)
+  - [How is Uncertainty used in RLVR?](#how-is-uncertainty-used-in-rlvr)
+    - [🎯 Uncertainty as an Optimization Objective](#-uncertainty-as-an-optimization-objective)
+    - [💰 Uncertainty as a Reward Signal](#-uncertainty-as-a-reward-signal)
+    - [🧭 Uncertainty as a Optimization Guide](#-uncertainty-as-a-optimization-guide)
   - [Contributing](#contributing)
   - [🌟 Star History](#-star-history)
 
-## Introduction
+## How is Uncertainty used in RLVR?
 
-Uncertainty plays a crucial role in reinforcement learning (RL), particularly when applied to language models and reasoning tasks. This repository categorizes research papers based on how they utilize uncertainty in RL frameworks, providing a valuable resource for researchers and practitioners in the field.
-
-## How to use Uncertainty in RL?
-
-### 🎯 Uncertainty as Optimization Objective
+### 🎯 Uncertainty as an Optimization Objective
 
 <div align="center">
 
@@ -52,7 +38,7 @@ Uncertainty plays a crucial role in reinforcement learning (RL), particularly wh
 
 </div>
 
-### 💰 Uncertainty as Reward Signal
+### 💰 Uncertainty as a Reward Signal
 
 <div align="center">
 
@@ -64,7 +50,7 @@ Uncertainty plays a crucial role in reinforcement learning (RL), particularly wh
 
 </div>
 
-### 🧭 Uncertainty as Optimization Guide
+### 🧭 Uncertainty as a Optimization Guide
 
 <div align="center">
 
