@@ -1,14 +1,6 @@
 # Awesome Uncertainty-based RLVR Papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-<p>This repository targets researchers exploring recent advances in reinforcement learning that utilize uncertainty to improve the reasoning capabilities of large language models.</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-</div>
+This repository targets researchers exploring recent advances in reinforcement learning that utilize uncertainty to improve the reasoning capabilities of large language models.
 
 ## 📋 Table of Contents
 
