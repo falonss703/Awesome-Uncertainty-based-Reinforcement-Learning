@@ -20,7 +20,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 <div align="center">
 
 | Title | Method | Date | Metric | Task Domain | Code | Venue |
-|:-----:|:------:|:----:|:------:|:----------:|:----:|:-----:|
+|-----|:------:|:----:|:------:|:----------:|:----:|:-----:|
 | [**Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization**](https://arxiv.org/abs/2504.05812) | EMPO | 04/2025 | Semantic Entropy | Math & General | [code](https://github.com/QingyangZhang/EMPO) | arXiv |
 | [**SLOT: Sample-specific Language Model Optimization at Test-time**](https://arxiv.org/abs/2505.12392) | SLOT | 05/2025 | Token Entropy | Math | [code](https://github.com/maple-research-lab/SLOT) | arXiv |
 | [**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**](https://arxiv.org/abs/2505.15134) | EM-FT, EM-INF | 05/2025 | Trajectory/Token Entropy | Math & Code | [code](https://github.com/shivamag125/EM_PT) | arXiv |
@@ -35,7 +35,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 <div align="center">
 
 | Title | Method | Date | Metric | Task Domain | Code | Venue |
-|:-----:|:------:|:----:|:------:|:----------:|:----:|:-----:|
+|-----|:------:|:----:|:------:|:----------:|:----:|:-----:|
 | [**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**](https://arxiv.org/abs/2505.15134) | EM-RL | 05/2025 | Trajectory/Token Entropy | Math & Code | [code](https://github.com/shivamag125/EM_PT) | arXiv |
 | [**Learning to Reason without External Rewards**](https://arxiv.org/abs/2505.19590) | INTUITOR | 05/2025 | Self-Certainty | Math & Code | [code](https://github.com/sunblaze-ucb/Intuitor) | arXiv |
 | [**Consistent Paths Lead to Truth Self-Rewarding Reinforcement Learning for LLM Reasoning**](https://arxiv.org/abs/2506.08745) | CoVo | 06/2025 | Trajectory Features | Math | [code](https://github.com/sastpg/CoVo) | arXiv |
@@ -47,7 +47,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 <div align="center">
 
 | Title | Method | Date | Metric | Task Domain | Code | Venue |
-|:-----:|:------:|:----:|:------:|:----------:|:----:|:-----:|
+|-----|:------:|:----:|:------:|:----------:|:----:|:-----:|
 | [**SEED-GRPO: Semantic entropy enhanced GRPO for uncertainty-aware policy optimization**](https://arxiv.org/abs/2505.12346) | SEED-GRPO | 05/2025 | Semantic Entropy | Math | - | arXiv |
 | [**The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models**](https://arxiv.org/abs/2505.22617) | Clip-Cov, KL-Cov | 05/2025 | Policy Entropy | Math | [code](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL) | arXiv |
 | [**Reinforcing Video Reasoning with Focused Thinking**](https://arxiv.org/abs/2505.24718) | TW-GRPO | 05/2025 | Intra-Group Information Entropy | Video | [code](https://github.com/longmalongma/TW-GRPO) | arXiv |
