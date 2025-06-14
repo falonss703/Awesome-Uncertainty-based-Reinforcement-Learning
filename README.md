@@ -1,19 +1,19 @@
-# Awesome Uncertainty-based RLVR Papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Uncertainty-based RL Papers[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository targets researchers exploring recent advances in reinforcement learning that utilize uncertainty to improve the reasoning capabilities of large language models.
 
 ## 📋 Table of Contents
 
-- [Awesome Uncertainty-based RLVR Papers](#awesome-uncertainty-based-rlvr-papers)
+- [Awesome Uncertainty-based RL Papers](#awesome-uncertainty-based-rl-papers)
   - [📋 Table of Contents](#-table-of-contents)
-  - [How is Uncertainty used in RLVR?](#how-is-uncertainty-used-in-rlvr)
+  - [How is Uncertainty used in RL?](#how-is-uncertainty-used-in-rl)
     - [🎯 Uncertainty as an Optimization Objective](#-uncertainty-as-an-optimization-objective)
     - [💰 Uncertainty as a Reward Signal](#-uncertainty-as-a-reward-signal)
     - [🧭 Uncertainty as a Optimization Guide](#-uncertainty-as-a-optimization-guide)
   - [Contributing](#contributing)
   - [🌟 Star History](#-star-history)
 
-## How is Uncertainty used in RLVR?
+## How is Uncertainty used in RL?
 
 ### 🎯 Uncertainty as an Optimization Objective
 
