@@ -61,8 +61,4 @@ We welcome everyone to contribute to this repository and help improve it. You ca
 
 ## 🌟 Star History
 
-<div align="center">
-  <a href="https://www.star-history.com/#falonss703/Awesome-Uncertainty-based-RLVR&Date">
-    <img src="https://api.star-history.com/svg?repos=falonss703/Awesome-Uncertainty-based-RLVR&type=Date" alt="Star History Chart" width="600">
-  </a>
-</div>
+[![Star History Chart](https://api.star-history.com/svg?repos=falonss703/Awesome-Uncertainty-based-RLVR&type=Date)](https://www.star-history.com/#falonss703/Awesome-Uncertainty-based-RLVR&Date)
