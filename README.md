@@ -60,6 +60,12 @@ This repository targets researchers exploring recent advances in reinforcement l
 
 We welcome everyone to contribute to this repository and help improve it. You can submit pull requests to add new papers, projects, and helpful materials, or to correct any errors that you may find. Please make sure that your pull requests follow the format in the tables above. Thank you for your valuable contributions!
 
+<div align="center">
+
+**🌟 Star this repo if you find it helpful! 🌟**
+
+</div>
+
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=falonss703/Awesome-Uncertainty-based-Reinforcement-Learning&type=Date)](https://www.star-history.com/#falonss703/Awesome-Uncertainty-based-Reinforcement-Learning&Date)
