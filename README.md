@@ -38,6 +38,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 |-----|:------:|:----:|:------:|:----------:|:----:|:-----:|
 | [**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**](https://arxiv.org/abs/2505.15134) | EM-RL | 05/2025 | Trajectory/Token Entropy | Math & Code | [code](https://github.com/shivamag125/EM_PT) | arXiv |
 | [**Learning to Reason without External Rewards**](https://arxiv.org/abs/2505.19590) | INTUITOR | 05/2025 | Self-Certainty | Math & Code | [code](https://github.com/sunblaze-ucb/Intuitor) | arXiv |
+| [**Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models**](https://arxiv.org/abs/2506.06395) | RLSC | 06/2025 | Self-Confidence | Math | - | arXiv |
 | [**Consistent Paths Lead to Truth Self-Rewarding Reinforcement Learning for LLM Reasoning**](https://arxiv.org/abs/2506.08745) | CoVo | 06/2025 | Trajectory Features | Math | [code](https://github.com/sastpg/CoVo) | arXiv |
 
 </div>
