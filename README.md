@@ -6,12 +6,21 @@ This repository targets researchers exploring recent advances in reinforcement l
 
 - [Awesome Uncertainty-based RL Papers](#awesome-uncertainty-based-rl-papers)
   - [📋 Table of Contents](#-table-of-contents)
+  - [📜 History](#-history)
+    - [Recent Updates](#recent-updates)
   - [How is Uncertainty used in RL?](#how-is-uncertainty-used-in-rl)
     - [🎯 Uncertainty as an Optimization Objective](#-uncertainty-as-an-optimization-objective)
     - [💰 Uncertainty as a Reward Signal](#-uncertainty-as-a-reward-signal)
     - [🧭 Uncertainty as a Optimization Guide](#-uncertainty-as-a-optimization-guide)
   - [Contributing](#contributing)
   - [🌟 Star History](#-star-history)
+  
+## 📜 History
+
+### Recent Updates
+
+- **2025-06-18**: Added “Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models”
+- **2025-06-14**: Repository made public with comprehensive collection of uncertainty-based RL papers
 
 ## How is Uncertainty used in RL?
 
