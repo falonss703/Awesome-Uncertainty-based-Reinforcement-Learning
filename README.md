@@ -19,6 +19,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 
 ### Recent Updates
 
+- **2025-06-20**: Added “Reasoning with Exploration: An Entropy Perspective”
 - **2025-06-20**: Added “Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning”
 - **2025-06-18**: Added “Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models”
 - **2025-06-14**: Repository made public with comprehensive collection of uncertainty-based RL papers
@@ -64,6 +65,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 | [**Reinforcing Video Reasoning with Focused Thinking**](https://arxiv.org/abs/2505.24718) | TW-GRPO | 05/2025 | Intra-Group Information Entropy | Video | [code](https://github.com/longmalongma/TW-GRPO) | arXiv |
 | [**Beyond the 80/20 Rule: High-Entropy Minority Tokens Drive Effective Reinforcement Learning for LLM Reasoning**](https://arxiv.org/abs/2506.01939) | Forking Tokens | 06/2025 | Token Entropy | Math | [project page](https://shenzhi-wang.github.io/high-entropy-minority-tokens-rlvr/) | arXiv |
 | [**Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning**](https://arxiv.org/abs/2506.02867) | MI peaks  | 06/2025 | Mutual Information | Math | [code](https://github.com/ChnQ/MI-Peaks) | arXiv |
+| [**Reasoning with Exploration: An Entropy Perspective**](https://arxiv.org/abs/2506.14758) | Entropy-Based Advantage Shaping | 06/2025 | Token Entropy | Math | - | arXiv |
 
 </div>
 
