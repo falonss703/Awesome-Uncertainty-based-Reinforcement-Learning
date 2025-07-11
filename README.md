@@ -36,7 +36,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 | [**Right Question is Already Half the Answer: Fully Unsupervised LLM Reasoning Incentivization**](https://arxiv.org/abs/2504.05812) | EMPO | 04/2025 | Semantic Entropy | Math & General | [code](https://github.com/QingyangZhang/EMPO) | arXiv |
 | [**SLOT: Sample-specific Language Model Optimization at Test-time**](https://arxiv.org/abs/2505.12392) | SLOT | 05/2025 | Token Entropy | Math | [code](https://github.com/maple-research-lab/SLOT) | arXiv |
 | [**The Unreasonable Effectiveness of Entropy Minimization in LLM Reasoning**](https://arxiv.org/abs/2505.15134) | EM-FT, EM-INF | 05/2025 | Trajectory/Token Entropy | Math & Code | [code](https://github.com/shivamag125/EM_PT) | arXiv |
-| [**One-shot Entropy Minimization**](https://arxiv.org/abs/2505.20282) | EM | 05/2025 | Token Entropy | Math | [code](https://github.com/zitian-gao/one-shot-em) | arXiv |
+| [**One-shot Entropy Minimization**](https://arxiv.org/abs/2505.20282) | EM | 05/2025 | Token Entropy | Math, Code, Logic | [code](https://github.com/zitian-gao/one-shot-em) | arXiv |
 | [**Maximizing Confidence Alone Improves Reasoning**](https://arxiv.org/abs/2505.22660) | RENT | 05/2025 | Token Entropy | Math | [project page](https://rent-rl.github.io/) | arXiv |
 | [**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**](https://www.arxiv.org/abs/2506.03723) | CSFT | 06/2025 | Self-Confidence | Math | - | arXiv |
 
