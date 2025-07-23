@@ -19,6 +19,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 
 ### Recent Updates
 
+- **2025-07-23**: Added "Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR"
 - **2025-07-01**: Added "SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning"
 - **2025-06-20**: Added “Reasoning with Exploration: An Entropy Perspective”
 - **2025-06-20**: Added “Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning”
@@ -68,6 +69,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 | [**Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning**](https://arxiv.org/abs/2506.02867) | MI peaks  | 06/2025 | Mutual Information | Math | [code](https://github.com/ChnQ/MI-Peaks) | arXiv |
 | [**Reasoning with Exploration: An Entropy Perspective**](https://arxiv.org/abs/2506.14758) | Entropy-Based Advantage Shaping | 06/2025 | Token Entropy | Math | - | arXiv |
 | [**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**](https://arxiv.org/abs/2506.19767) | SRFT | 06/2025 | Token Entropy | Math | [poject page](https://anonymous.4open.science/w/SRFT2025) | arXiv |
+| [**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**](https://arxiv.org/abs/2507.15778) | Archer | 07/2025 | Token Entropy | Math & Code | [code](https://github.com/wizard-III/ArcherCodeR) | arXiv |
 
 </div>
 
