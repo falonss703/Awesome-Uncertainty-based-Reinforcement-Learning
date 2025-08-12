@@ -19,6 +19,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 
 ### Recent Updates
 
+- **2025-08-12**: Added "EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity"
 - **2025-07-23**: Added "Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR"
 - **2025-07-01**: Added "SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning"
 - **2025-06-20**: Added “Reasoning with Exploration: An Entropy Perspective”
@@ -70,6 +71,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 | [**Reasoning with Exploration: An Entropy Perspective**](https://arxiv.org/abs/2506.14758) | Entropy-Based Advantage Shaping | 06/2025 | Token Entropy | Math | - | arXiv |
 | [**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**](https://arxiv.org/abs/2506.19767) | SRFT | 06/2025 | Token Entropy | Math | [poject page](https://anonymous.4open.science/w/SRFT2025) | arXiv |
 | [**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**](https://arxiv.org/abs/2507.15778) | Archer | 07/2025 | Token Entropy | Math & Code | [code](https://github.com/wizard-III/ArcherCodeR) | arXiv |
+| [**EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity**](https://arxiv.org/abs/2507.21848) | EDGE-GRPO | 07/2025 | Token Entropy | Math | [code](https://github.com/ZhangXJ199/EDGE-GRPO) | arXiv |
 
 </div>
 
