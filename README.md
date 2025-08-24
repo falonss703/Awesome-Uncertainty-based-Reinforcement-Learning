@@ -19,6 +19,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 
 ### Recent Updates
 
+- **2025-08-24**: Added "Agentic Reinforced Policy Optimization"
 - **2025-08-19**: Added "IBRO, GTPO, GRPO-S"
 - **2025-08-12**: Added "EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity"
 - **2025-07-23**: Added "Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR"
@@ -73,9 +74,10 @@ This repository targets researchers exploring recent advances in reinforcement l
 | [**SRFT: A Single-Stage Method with Supervised and Reinforcement Fine-Tuning for Reasoning**](https://arxiv.org/abs/2506.19767) | SRFT | 06/2025 | Token Entropy | Math | [poject page](https://anonymous.4open.science/w/SRFT2025) | arXiv |
 | [**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**](https://arxiv.org/abs/2507.15778) | Archer | 07/2025 | Token Entropy | Math & Code | [code](https://github.com/wizard-III/ArcherCodeR) | arXiv |
 | [**Revisiting LLM Reasoning via Information Bottleneck**](https://arxiv.org/abs/2507.18391) | IBRO | 07/2025 | Information Bottleneck | Math | - | arXiv |
+| [**Agentic Reinforced Policy Optimization**](https://arxiv.org/pdf/2507.19849) | ARPO | 07/2025 | Token Entropy | Math & General & Deep Search | [code](https://github.com/dongguanting/ARPO) | arXiv |
 | [**EDGE-GRPO: Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity**](https://arxiv.org/abs/2507.21848) | EDGE-GRPO | 07/2025 | Token Entropy | Math | [code](https://github.com/ZhangXJ199/EDGE-GRPO) | arXiv |
 | [**GTPO: Trajectory-Based Policy Optimization in Large Language Models**](https://arxiv.org/abs/2508.03772) | GTPO | 08/2025 | Token Entropy | Math | - | arXiv |
-| [**GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy**](https://arxiv.org/abs/2508.04349) | GTPO, GRPO-s | 08/2025 | Token Entropy | Math | - | arXiv |
+| [**GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy**](https://arxiv.org/abs/2508.04349) | GTPO, GRPO-S | 08/2025 | Token Entropy | Math | - | arXiv |
 
 
 </div>
