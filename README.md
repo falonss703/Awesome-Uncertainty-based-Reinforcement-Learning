@@ -43,6 +43,7 @@ This repository targets researchers exploring recent advances in reinforcement l
 | [**One-shot Entropy Minimization**](https://arxiv.org/abs/2505.20282) | EM | 05/2025 | Token Entropy | Math, Code, Logic | [code](https://github.com/zitian-gao/one-shot-em) | arXiv |
 | [**Maximizing Confidence Alone Improves Reasoning**](https://arxiv.org/abs/2505.22660) | RENT | 05/2025 | Token Entropy | Math | [project page](https://rent-rl.github.io/) | arXiv |
 | [**Verbalized Confidence Triggers Self-Verification: Emergent Behavior Without Explicit Reasoning Supervision**](https://www.arxiv.org/abs/2506.03723) | CSFT | 06/2025 | Self-Confidence | Math | - | arXiv |
+| [**You only need 4 extra tokens: Synergistic Test-time Adaptation for LLMs**](https://arxiv.org/abs/2510.10223v1) | SyTTA | 09/2025 | Token Entropy | Domain & Instruct Following & Math | - | arXiv |
 
 </div>
 
